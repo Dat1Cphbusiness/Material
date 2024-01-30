@@ -2,10 +2,9 @@
 
 **FLOW1**
  - Datatyper og variable
- - Kontrolstrukturere - (conditions og loops)
-Function/metoder
-Lister og beholdere - (Array og ArrayList)
-Objekter
+ - Kontrolstrukturer (conditions og loops)
+ - Organisering (function/object)
+ - Beholdere (Array og ArrayList)
 
 **FlOW2**
 **FlOW3**
