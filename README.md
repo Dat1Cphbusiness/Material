@@ -1,8 +1,8 @@
 # Material
 
 **FLOW1**
-Datatyper og variable
-Kontrolstrukturere - (conditions og loops)
+ - Datatyper og variable
+ - Kontrolstrukturere - (conditions og loops)
 Function/metoder
 Lister og beholdere - (Array og ArrayList)
 Objekter
